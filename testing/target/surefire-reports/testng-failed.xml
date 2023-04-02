@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestSuite]" verbose="0">
+  <test name="TestProject(failed)">
+    <classes>
+      <class name="com.suite.OmayoReadTableSuite">
+        <methods>
+          <include name="testcaseSetup"/>
+          <include name="test_ReadDataFromFrame"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.suite.OmayoReadTableSuite -->
+    </classes>
+  </test> <!-- TestProject(failed) -->
+</suite> <!-- Failed suite [TestSuite] -->
